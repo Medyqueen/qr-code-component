@@ -1,0 +1,32 @@
+* {
+  background-color: hsl(212, 45%, 89%);
+  position: absolute;
+}
+
+div {
+  margin: auto;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+.page {
+  background-color: white;
+  position: relative;
+  border-radius: 10px;
+}
+.page img {
+  border-radius: 10px;
+  position: relative;
+  margin: 10px;
+}
+.page p {
+  font-size: 15px;
+  background-color: white;
+}/*# sourceMappingURL=style.css.map */
