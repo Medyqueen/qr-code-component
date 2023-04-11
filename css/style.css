@@ -1,10 +1,37 @@
 * {
-  background-color: hsl(212, 45%, 89%);
-  position: absolute;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 
-div {
-  margin: auto;
+body {
+  font-family: "Outfit", sans-serif;
+  background-color: hsl(212, 45%, 89%);
+}
+
+.container {
+  display: flex;
+  width: 375px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 3rem auto 2rem;
+  padding: 1rem 1rem 1.5rem;
+  background-color: white;
+  border-radius: 20px;
+  box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.2);
+}
+.container img {
+  width: 100%;
+  border-radius: 15px;
+}
+.container h2 {
+  font-weight: 700;
+  padding: 1rem;
+}
+.container p {
+  font-weight: 400;
+  margin: 0 22px;
 }
 
 .attribution {
@@ -14,19 +41,4 @@ div {
 
 .attribution a {
   color: hsl(228, 45%, 44%);
-}
-
-.page {
-  background-color: white;
-  position: relative;
-  border-radius: 10px;
-}
-.page img {
-  border-radius: 10px;
-  position: relative;
-  margin: 10px;
-}
-.page p {
-  font-size: 15px;
-  background-color: white;
 }/*# sourceMappingURL=style.css.map */
