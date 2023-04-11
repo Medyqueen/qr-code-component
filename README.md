@@ -1,6 +1,6 @@
 # Frontend Mentor - QR code component solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -22,8 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://dapper-rugelach-1af4aa.netlify.app](https://dapper-rugelach-1af4aa.netlify.app)
 
 ## My process
 
@@ -37,10 +36,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### What I learned
 
 - how to position divs and images
-- how to import fonts 
+- how to import fonts
 - how to style elements
 
 -- setting width limits --
+
 ```scss
 @media (min-width: 500px) {
 	.container {
